@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "5b8d99e1-8a6b-47c2-91a5-c86647b7b2b7",
+      "name": "John Snow",
+      "number": "+380935007030"
+    },
+    {
+      "id": "0991dfa3-f2cc-4b04-a1d3-11b816a43fd0",
+      "name": "Bugs Bunny",
+      "number": "093-5007030"
+    },
+    {
+      "id": "911444bb-952e-42d8-a510-75ea8099ad85",
+      "name": "Donald Duck",
+      "number": "+380935007030"
+    },
+    {
+      "id": "ea3378c0-51a1-4632-80bf-b5d9b3aa0551",
+      "name": "Anchous",
+      "number": "+380935007030"
+    },
+    {
+      "id": "5fecf0a7-0cee-48aa-b1c8-7c0164e6a3de",
+      "name": "Alex Voloshyn",
+      "number": "+380935007030"
+    },
+    {
+      "id": "a1a4b625-8f39-4dc8-bffd-ed4f1b086088",
+      "name": "Alex Voloshyn",
+      "number": "+380935007030"
+    }
+  ]
+}
