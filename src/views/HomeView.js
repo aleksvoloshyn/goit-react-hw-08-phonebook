@@ -1,27 +1,11 @@
 import React from 'react';
-
-const styles = {
-  container: {
-    minHeight: 'calc(100vh - 50px)',
-    display: 'flex',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-  title: {
-    fontWeight: 500,
-    fontSize: 48,
-    textAlign: 'center',
-  },
-};
+import walppaper from './walpp_2.jpg';
+import s from './HomeView.module.css';
 
 const HomeView = () => (
-  <div style={styles.container}>
-    <h1 style={styles.title}>
-      Приветственная страница нашего сервиса{' '}
-      <span role="img" aria-label="Иконка приветствия">
-        💁‍♀️
-      </span>
-    </h1>
+  <div className={s.container}>
+    <h1 className={s.title}>Contacts book app </h1>
+    {/* <img src={walppaper} width="800px" alt="" /> */}
   </div>
 );
 

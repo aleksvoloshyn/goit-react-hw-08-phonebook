@@ -21,7 +21,7 @@ const Navigation = () => {
   return (
     <nav>
       <NavLink to="/" exact style={styles.link} activeStyle={styles.activeLink}>
-        Главная
+        Main
       </NavLink>
       {isLoggedIn && (
         <NavLink
@@ -30,7 +30,7 @@ const Navigation = () => {
           style={styles.link}
           activeStyle={styles.activeLink}
         >
-          Контакты
+          Contacts
         </NavLink>
       )}
     </nav>

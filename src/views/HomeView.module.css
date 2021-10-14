@@ -1,0 +1,15 @@
+.title {
+  font-family: 'Londrina Solid', cursive;
+  width: 900px;
+}
+
+.container {
+  padding-top: 140px;
+  padding-left: 20px;
+  height: 600px;
+  display: 'flex';
+  alignitems: 'center';
+  justifycontent: 'center';
+  background-image: url(./walpp_2.jpg);
+  background-size: cover;
+}
