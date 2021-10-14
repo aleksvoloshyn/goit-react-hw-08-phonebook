@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-08-phonebook"]=this["webpackJsonpgoit-react-hw-08-phonebook"]||[]).push([[4],{112:function(t,e,o){t.exports={title:"HomeView_title__38Pvq",container:"HomeView_container__2iF6U"}},120:function(t,e,o){"use strict";o.r(e);o(0),o.p;var n=o(112),i=o.n(n),c=o(1);e.default=function(){return Object(c.jsx)("div",{className:i.a.container,children:Object(c.jsx)("h1",{className:i.a.title,children:"Contacts book app "})})}}}]);
+//# sourceMappingURL=4.0f74fdc2.chunk.js.map
