@@ -44,7 +44,7 @@ const logOut = createAsyncThunk('auth/logout', async () => {
   }
 });
 
-// GET CURRENT USER
+// GET CURRENT USER (for regresh)
 const fetchCurrentUser = createAsyncThunk(
   'auth/getCurrentUser',
   async (_, thunkAPI) => {
